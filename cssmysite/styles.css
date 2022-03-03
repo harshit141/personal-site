@@ -1,0 +1,38 @@
+.top-container{
+background-color: #EFFFFD;
+font-family:'Arizonia';
+padding-top:50px ;
+
+}
+a{
+    text-decoration: underline;
+    color:rgb(116, 82, 10) ; ;
+}
+body{color:rgb(88, 140, 235) ;
+    margin-top: 0px;
+    text-align: center;
+background-color: #EFFFFD;
+}
+h1{font-size: 40px;
+margin: 50px auto 0 auto;
+line-height: 1;
+}
+#para{
+    font-size: 2rem;
+}
+.skillimg{
+    height: 300px;
+
+}
+.skill-row {
+   font-family: 'Arizonia';
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.profile
+{ display: inline;
+    width: 200px;
+    height: 200px;
+    
+}
